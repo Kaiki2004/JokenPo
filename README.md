@@ -46,6 +46,9 @@ Este é um projeto simples de um jogo de JokenPo (Pedra, Papel e Tesoura) desenv
 ## Capturas de Tela
 ![Tela inical do jogo](assets/tela_iniical_jogo.png)
 
+## Vídeo do jogo
+![GIF](assets/gif_jogo.gif)
+
 
 ## Licença
 * Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
